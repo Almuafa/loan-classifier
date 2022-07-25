@@ -14,6 +14,13 @@ Building classifier than predicts ability of consumer to pay the loan
 
 ### 2. Exploratory data analysis (EDA)
 
+### 3. Data Wrangling (cleansing, transforming, standardization, normalization)
+
+### 4. Training
+
+### 5. Predict
+
+### 6. Inference
 
 ### 7. Tableau dashboard
 
