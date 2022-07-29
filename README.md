@@ -57,7 +57,7 @@ Finally I check the importance of all the feature I found the loan amount is the
 
 ### 7. Tableau dashboard
 
-Please see the full Tableau Financial Project from my account in Tableau Public using this link 
+Please see the full Tableau Financial Project from my account in Tableau Public using this link :
 https://public.tableau.com/app/profile/ahmed1792
 
 ## Usage
