@@ -1,5 +1,5 @@
 # Loan classifier
-Building classifier than predicts ability of consumer to pay the loan 
+Building classifier that predicts ability of consumer to pay the loan 
 
 ## Workflow
 1. Data gathering
